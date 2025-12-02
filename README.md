@@ -37,9 +37,23 @@ Build a reliable model to predict stroke probability and identify the most impor
 ├── Stroke Prediction Code.ipynb            # Full notebook (EDA → Modeling → Evaluation)
 └── README.md                               # This file
 text## How to Run
-git clone https://github.com/Mohamed-Amine-Dammak/Stroke-Prediction-Healthcare
+```bash
+# Clone the repository
+git clone https://github.com/Mohamed-Amine-Dammak/Stroke-Prediction-Healthcare 
+
+# Navigate into the project folder
 cd Stroke-Prediction-Healthcare
+
+# Install required Python packages
 pip install pandas numpy scikit-learn imblearn plotly seaborn matplotlib
+
+# Launch the Jupyter Notebook
 jupyter notebook "Stroke Prediction Code.ipynb"
-Perfect portfolio project for Data Analyst, Data Scientist, or Healthcare ML roles.
-Star if you’re into predictive healthcare!
+
+# To stop Jupyter Notebook later
+Ctrl + C
+y  # confirm shutdown
+
+# To exit Git Bash
+exit
+
