@@ -1,4 +1,3 @@
-Markdown# Stroke Prediction – Healthcare ML Project
 
 **Healthcare / Predictive Analytics Project**  
 **Imen Abdelkader & Mohamed Amine Dammak** – December 2025  
