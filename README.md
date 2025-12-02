@@ -1,6 +1,6 @@
 
 **Healthcare / Predictive Analytics Project**  
-**Imen Abdelkader & Mohamed Amine Dammak** – December 2025  
+**Imen Abdelkader & Mohamed Amine Dammak** – 2024 
 
 Predicting stroke risk using clinical and lifestyle features (5,110 patients). Strong focus on **high Recall** (catch as many true strokes as possible) – critical for medical applications.
 
