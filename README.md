@@ -31,12 +31,7 @@ Build a reliable model to predict stroke probability and identify the most impor
 | 2    | Random Forest + ADASYN    | 0.90   | 0.76     | 0.87     |
 | 3    | Logistic Regression       | 0.88   | 0.74     | 0.85     |
 
-## Repository Contents
-.
-├── healthcare-dataset-stroke-data.csv      # Original dataset
-├── Stroke Prediction Code.ipynb            # Full notebook (EDA → Modeling → Evaluation)
-└── README.md                               # This file
-text## How to Run
+## How to Run
 ```bash
 # Clone the repository
 git clone https://github.com/Mohamed-Amine-Dammak/Stroke-Prediction-Healthcare 
